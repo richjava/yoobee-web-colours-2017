@@ -2,14 +2,14 @@
 <project version="4">
   <component name="PublishConfigData">
     <serverData>
-      <paths name="NewServer">
+      <paths name="TestServer">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="localhost">
+      <paths name="TestServer2">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
